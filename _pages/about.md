@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 <br/>
 <p style='text-align: justify;'>I currently work at Ederlabs on privacy preserving Machine learning (PPML).</p>
 <p style='text-align: justify;'>I am also a member of <a href="https://www.openmined.org/" target="_blank">Openmined</a> SyMPC team. </p>
